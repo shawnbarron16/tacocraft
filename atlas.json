@@ -1,11 +1,25 @@
 {
-	"entries": [
+	"worlds": [
 		{
 			"id": 1,
-			"name": "origin",
-			"x": 0,
-			"y": 0,
-			"z": 0,
+			"name": "vanilla"
+		}
+	]
+	"authors": [
+		{
+			"id": 1,
+			"name": val,
+			"username": "vcvcvc_val"
+		}
+	]
+	"entries": [
+		{
+			"name": "desert_outpost",
+			"authorId": 1, 
+			"worldId": 1,
+			"x": -500,
+			"y": 68,
+			"z": 138,
 			"notes": "is this also spawn? sometimes? always? idk"
 		}
 	]
