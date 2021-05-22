@@ -4,14 +4,14 @@
 			"id": 1,
 			"name": "vanilla"
 		}
-	]
+	],
 	"authors": [
 		{
 			"id": 1,
-			"name": val,
+			"name": "val",
 			"username": "vcvcvc_val"
 		}
-	]
+	],
 	"entries": [
 		{
 			"name": "desert_outpost",
