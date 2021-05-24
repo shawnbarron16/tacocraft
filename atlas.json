@@ -10,6 +10,11 @@
 			"id": 1,
 			"name": "val",
 			"username": "vcvcvc_val"
+		},
+		{
+			"id": 2,
+			"name": "shawn",
+			"username": "theshawnbarron"
 		}
 	],
 	"entries": [
@@ -21,6 +26,16 @@
 			"y": 68,
 			"z": 138,
 			"notes": "take the water elevator down to get to my ravine house -- Val",
+			"OG": true
+		},
+		{
+			"name": "Big_ass_pyramid",
+			"authorId": 2,
+			"worldId": 1,
+			"x": -135,
+			"y": 75,
+			"z": 13,
+			"notes": "Literally it's the big ass pyramid",
 			"OG": true
 		}
 	]
